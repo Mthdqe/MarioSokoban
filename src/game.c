@@ -4,10 +4,10 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
 
-#include "const.h"
-#include "player.h"
-#include "map.h"
-#include "title.h"
+#include "../include/const.h"
+#include "../include/player.h"
+#include "../include/map.h"
+#include "../include/title.h"
 
 static int IsGameFinished(Map map)
 {

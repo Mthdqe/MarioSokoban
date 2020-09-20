@@ -4,9 +4,9 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
 
-#include "const.h"
-#include "map.h"
-#include "title.h"
+#include "../include/const.h"
+#include "../include/map.h"
+#include "../include/title.h"
 
 static void ModifCell(Map* map, Cell cell, SDL_Rect pos)
 {

@@ -3,8 +3,8 @@
 #include <SDL/SDL_ttf.h>
 #include <SDL/SDL.h>
 
-#include "const.h"
-#include "title.h"
+#include "../include/const.h"
+#include "../include/title.h"
 
 Title InitTitle(char level, TTF_Font* font)
 {

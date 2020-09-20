@@ -4,10 +4,10 @@
 #include <SDL/SDL_image.h>
 #include <SDL/SDL_ttf.h>
  
-#include "const.h"
-#include "game.h"
-#include "player.h"
-#include "level.h"
+#include "../include/const.h"
+#include "../include/game.h"
+#include "../include/player.h"
+#include "../include/level.h"
 
 int main()
 {

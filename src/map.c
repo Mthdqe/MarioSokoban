@@ -4,7 +4,7 @@
 #include <SDL/SDL_image.h>
 #include <string.h>
 
-#include "const.h"
+#include "../include/const.h"
 
 Map CreateMap(char level)
 {
